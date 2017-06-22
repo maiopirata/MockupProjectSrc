@@ -1,1 +1,1 @@
-# Example of project atomation
+# Example of project automation
